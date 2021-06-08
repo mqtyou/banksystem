@@ -1,0 +1,13 @@
+F:\test\homework\简单的银行管理系统\SimpleBankManage\简单的银行管理系统\web\bin\web.dll
+F:\test\homework\简单的银行管理系统\SimpleBankManage\简单的银行管理系统\web\bin\web.pdb
+F:\test\homework\简单的银行管理系统\SimpleBankManage\简单的银行管理系统\web\obj\Debug\web.dll
+F:\test\homework\简单的银行管理系统\SimpleBankManage\简单的银行管理系统\web\obj\Debug\web.pdb
+F:\test\homework\简单的银行管理系统\SimpleBankManage\简单的银行管理系统\web\obj\Debug\web.csprojResolveAssemblyReference.cache
+C:\Users\10846\Downloads\Compressed\SimpleBankManage-master\SimpleBankManage-master\简单的银行管理系统\web\bin\web.dll.config
+C:\Users\10846\Downloads\Compressed\SimpleBankManage-master\SimpleBankManage-master\简单的银行管理系统\web\bin\web.dll
+C:\Users\10846\Downloads\Compressed\SimpleBankManage-master\SimpleBankManage-master\简单的银行管理系统\web\bin\web.pdb
+C:\Users\10846\Downloads\Compressed\SimpleBankManage-master\SimpleBankManage-master\简单的银行管理系统\web\obj\Debug\web.csproj.AssemblyReference.cache
+C:\Users\10846\Downloads\Compressed\SimpleBankManage-master\SimpleBankManage-master\简单的银行管理系统\web\obj\Debug\web.csproj.CoreCompileInputs.cache
+C:\Users\10846\Downloads\Compressed\SimpleBankManage-master\SimpleBankManage-master\简单的银行管理系统\web\obj\Debug\web.csproj.CopyComplete
+C:\Users\10846\Downloads\Compressed\SimpleBankManage-master\SimpleBankManage-master\简单的银行管理系统\web\obj\Debug\web.dll
+C:\Users\10846\Downloads\Compressed\SimpleBankManage-master\SimpleBankManage-master\简单的银行管理系统\web\obj\Debug\web.pdb
